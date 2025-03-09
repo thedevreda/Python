@@ -26,3 +26,15 @@ Install Liberaries:
 - conda remove -n [ENV] --all
 
 Note : Mean - AVG
+
+
+ SQL extantion: 
+- SQLTOOLS
+- SQLTOOLS POSTGRESQL
+- RAINBOW CSV
+- PYTHON 
+- JUPYTER
+- EDIT CSV
+- ERROR LENS
+- GITHUB COPILOT
+- GITHUB THEME AND VSCODE INCONS
