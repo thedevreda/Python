@@ -19,7 +19,7 @@ Virtual Environment:
 Install Liberaries: 
 
 - conda list
-- conda install datasets matplotlib pandas
+- conda install datasets matplotlib pandas seaborn
 
 
 - conda deactivate 
