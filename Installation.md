@@ -1,4 +1,4 @@
-Installations: 
+### Installations 🔻: 
 
 - Install Anaconda (you dont need to install python)
 - Install VSCode 
@@ -6,7 +6,7 @@ Installations:
 - Ctrl + Shift + P > Python: Select Interpreter > (base)
 
 
-Virtual Environment: 
+### Virtual Environment 👨‍💻: 
 
 - conda env list
 - conda create -n [ENV] python=3.11
@@ -16,7 +16,7 @@ Virtual Environment:
 - Ctrl + Shift + P > Python: Select Interpreter > (ENV)
 - Install
 
-Install Liberaries: 
+### Install Liberaries 📚: 
 
 - conda list
 - conda install datasets matplotlib pandas seaborn
@@ -28,7 +28,7 @@ Install Liberaries:
 Note : Mean - AVG
 
 
- SQL extantion: 
+ ### SQL extantion 👾: 
 - SQLTOOLS
 - SQLTOOLS POSTGRESQL
 - RAINBOW CSV
